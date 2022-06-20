@@ -7,8 +7,8 @@ This project is an extension to say_it_in_one_python_file using HTML5, JS and CS
 Project list
 
 ## Tier 1
+- [x] Calculator
 - [ ] Bin2Dec
-- [ ] Calculator
 - [ ] Notes app
 - [ ] Input validation
 - [ ] Stopwatch
